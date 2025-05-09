@@ -1,3 +1,3 @@
-# Atividades de Técnicas de Programação
+# 📝 Atividades de Técnicas de Programação
 
-Atividades que eu fiz nas aulas de Técnicas de Programação, na Fatec.
+Algumas atividades que desenvolvi nas aulas de Técnicas de Programação (Fatec)
