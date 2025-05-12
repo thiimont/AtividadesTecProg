@@ -9,7 +9,7 @@ public class SistemaDeSeguranca implements Autenticavel {
 		this.scan = scan;
 	}
 	
-	public boolean login(String usuario, String senha) {
+	private boolean login(String usuario, String senha) {
 		if(usuario.equals("admin") && senha.equals("1234")) {
 			return true;
 		} else {
@@ -17,7 +17,7 @@ public class SistemaDeSeguranca implements Autenticavel {
 		}
 	}
 	
-	public void logout() {
+	private void logout() {
 		System.out.println("Fazendo logout...");
 		this.autenticado = false;
 		realizarLogin();
