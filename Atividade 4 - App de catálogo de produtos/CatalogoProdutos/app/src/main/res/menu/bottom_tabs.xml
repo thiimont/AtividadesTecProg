@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab_eletronicos"
+        android:title="@string/eletronicos"
+        android:icon="@drawable/ic_eletronico"/>
+    <item
+        android:id="@+id/tab_roupas"
+        android:title="@string/roupas"
+        android:icon="@drawable/ic_roupa"/>
+    <item
+        android:id="@+id/tab_livros"
+        android:title="@string/livros"
+        android:icon="@drawable/ic_livro"/>
+</menu>

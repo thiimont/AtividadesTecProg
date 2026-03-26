@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@+id/tab_eletronicos">
+
+    <fragment
+        android:id="@+id/tab_eletronicos"
+        android:name="br.edu.fatecpg.catalogoprodutos.view.FragmentEletronicos"
+        android:label="fragment_eletronicos"
+        tools:layout="@layout/fragment_eletronicos" />
+    <fragment
+        android:id="@+id/tab_roupas"
+        android:name="br.edu.fatecpg.catalogoprodutos.view.FragmentRoupas"
+        android:label="fragment_roupas"
+        tools:layout="@layout/fragment_roupas" />
+    <fragment
+        android:id="@+id/tab_livros"
+        android:name="br.edu.fatecpg.catalogoprodutos.view.FragmentLivros"
+        android:label="fragment_livros"
+        tools:layout="@layout/fragment_livros" />
+</navigation>
