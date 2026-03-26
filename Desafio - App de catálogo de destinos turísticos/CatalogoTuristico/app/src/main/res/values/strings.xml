@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CatalogoTuristico</string>
+    <string name="login">Login</string>
+    <string name="senha">Senha</string>
+    <string name="nome_de_usuario">Nome de usuário</string>
+    <string name="cadastre_se">Ainda não tem conta? Cadastre-se</string>
+    <string name="nome_do_destino">Nome do destino</string>
+    <string name="pais_regiao">País/região</string>
+    <string name="url_de_referencia">URL de referência</string>
+    <string name="cadastro_de_destino">Cadastro de Destino</string>
+    <string name="salvar">Salvar</string>
+    <string name="nome_do_destino_format">Nome do destino: %s</string>
+    <string name="pais_regiao_format">Pais/região: %s</string>
+    <string name="url_de_referencia_format">URL de referência: %s</string>
+    <string name="explorar">Explorar</string>
+    <string name="excluir">Excluir</string>
+    <string name="voltar">Voltar</string>
+</resources>
